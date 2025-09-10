@@ -1,5 +1,5 @@
 
-public class Problema_2 {
+public class Clase1_Problema2 {
 
 	public static void main(String[] args) {
 		int aleatorio=2+(int)(Math.random()*99);

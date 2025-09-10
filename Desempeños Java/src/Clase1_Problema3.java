@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problema_3 {
+public class Clase1_Problema3 {
     public static void main(String[] ar) {
         Scanner teclado = new Scanner(System.in);
         int x, suma, valor, promedio;
